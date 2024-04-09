@@ -17,6 +17,19 @@ Além da prática com projetos, o curso técnico me proporcionou uma base sólid
 
 <br>
 
+# Ferramentas e Tecnologias
+
+<div style="display:flex;">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>     
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
 
 <!--
 **HigorTSilva/HigorTSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
